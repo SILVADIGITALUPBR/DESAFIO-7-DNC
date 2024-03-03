@@ -1,14 +1,26 @@
-const knex = require('../../service/knex');
+import {Knex} from 'Knex'
+import { KnexService } from "../service/Knex"
 
-const getAll = async () => {
-  return knex('aluno').select();
+export class aluno
+{
+
+  private db: Knex
+
+constructor (knexService: KnexService) {
+  this.db = KnexService.obterConexao ()
+  
+ }
+ 
+async getall () {
+
+ return this.db ('aluno').select()
+
 };
 
-const store = async (params) => {
-  return knex('aluno').insert(params);
-};
+async store  (params: any) {
 
-module.exports = {
-  getAll,
-  store,
-};
+ return this.db ( 'aluno').insert(params)
+
+}:
+
+}
