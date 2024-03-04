@@ -1,5 +1,5 @@
-import express from 'express'
-import alunoModel from "'./aluno.model.modeL"
+import express from 
+import alunoModel from 
 
 const router = express.Router()
 
