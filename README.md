@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# DESAFIO-7-DNC
+
+>>>>>>> 902bbb66482a475e1e057182005c03141d4833e5
 
 ## Documentação da API
 
