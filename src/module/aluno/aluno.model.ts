@@ -1,5 +1,5 @@
 import {Knex} from 'Knex'
-import { KnexService } from "../service/Knex"
+import { KnexService } from "../Knex"
 
 export class aluno
 {
