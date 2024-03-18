@@ -1,71 +1,44 @@
-<<<<<<< HEAD
-=======
-# DESAFIO-7-DNC
+# Desafios DNC
+O projeto se basea em um exemplo para referencias de boas documentações.
 
->>>>>>> 902bbb66482a475e1e057182005c03141d4833e5
+# Requisitos
 
-## Documentação da API
+- O arquivo possui linguagem em Typescript e jest
 
-#### Retorna todos os itens
+# Instalação
 
-Migração para Type Scrypty
+npm install - g typescript
 
-Descrição
+npm init -y
 
-npm install -g typescript
+npx tsc --init
 
-#### Criação do arquivo de configuração typescript
+Acesse o site oficial do Node.js em https://nodejs.org/.
+Clique no botão "Download" na página inicial.
+Selecione a versão do Node.js que deseja baixar (recomendamos a versão "LTS" para a maioria dos usuários).
+Clique no arquivo de instalação baixado e siga as instruções na tela para instalar o Node.js.
 
-```http
+# Linguagem
+Utilizamos a versão mais recente estavél do node.js , react e jest.
 
-Ultilize comando tsc -- init para criar o arquivo tsconfig-json. 
+# Contribuição
+Instruções para colaboradores que desejam contribuir com o projeto, incluindo a configuração do ambiente de desenvolvimento e os processos de envio de sugestões, correções e novas funcionalidades.
 
-```
+# Licença
 
-#### configuração do JET 
+Informações sobre a licença de uso do projeto e seus termos.
 
-Instalação do jet 
+# Contato
 
-Instale o jest como uma depência de desenvolvimento no seu negócio 
+Informações de contato no link https://github.com/rsilvadevelloper?tab=repositories
 
-```http
+# Exemplos
 
-npm install -- save-dev jest @types/jest
+# Histórico de Versões
 
-
-```
-
-#### configuração jet
-
-Use a versão mais recente 
-
-
-#### Testes de integração: 
-
-#### Estrutura de diretórios
-
-#### Teste de Unidade vs Teste de Integração
-
-#### Cobertura Abrangente 
+Jest version 29.7.0
 
 
-## Repositorio em JS Pronto
+# Problemas Conhecidos
 
-
-#### Cobertura Abrangente 
-
-Feito a api em JAVASCRIPT que está pronta para transforma-la em tyscript e logo depois estalado o jet
-
-Criado repositorio 
-
-Api estruturada
-
-
-## Referência
-
- 
-
- - https://github.com/rsilvadevelloper/DESAFIO-7-DNCawesome-readme)  
-
-
-
+Nesse projeto de bug não ouve pois seria estalação de java sscript para type script nenhum bug encontrado
