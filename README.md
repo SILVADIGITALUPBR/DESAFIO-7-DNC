@@ -1,4 +1,4 @@
-# Desafios DNC
+# Typescripty com Jeste
 O projeto se basea em um exemplo para referencias de boas documentações.
 
 # Requisitos
