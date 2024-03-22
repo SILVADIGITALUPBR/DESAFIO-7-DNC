@@ -1,4 +1,4 @@
-# Typescripty com Jeste
+# Typescripty com Jest
 O projeto se basea em um exemplo para referencias de boas documentações.
 
 # Requisitos
